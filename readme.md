@@ -1,3 +1,7 @@
+
+Go live - https://colab.research.google.com/drive/1WZctrXZHNJwzSSxyWbuJ7P46Pu0Pev1A#scrollTo=EMAwXxRVO1NF
+
+
 🎵 WaveGAN Voice Generation
 This project demonstrates audio generation using WaveGAN, a GAN-based model capable of synthesizing raw audio waveforms. Using pretrained checkpoints, this notebook allows you to generate realistic audio samples from various domains including speech, musical instruments, and environmental sounds.
 
